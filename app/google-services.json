@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "772265461730",
+    "project_id": "firebase-mailogin"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772265461730:android:14748f3bb2e98ba8",
+        "android_client_info": {
+          "package_name": "com.example.user.mailsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772265461730-5gc8a2am1ere6p54m7131snsuqlhv8f4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "772265461730-sl2k394is6802glc7kja5quf9rnr24u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.mailsignin",
+            "certificate_hash": "bfe2820c54fe1b1b0ceb0e91ff95353b3b0d77c2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4jpBjKEMcZKNUe7SpSvxihBDYJsGx4kI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
